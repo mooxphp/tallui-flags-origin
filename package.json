@@ -1,6 +1,5 @@
 {
-    "private": true,
     "dependencies": {
-        "webicons": "^1.0.0"
+        "svg-country-flags": "github:hampusborgos/country-flags"
     }
 }
